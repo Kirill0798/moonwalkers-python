@@ -1,6 +1,5 @@
 import socket
 import time
-from files import moon_map
 import json
 import random
 import numpy
